@@ -1,8 +1,8 @@
-![logo] (https://github.com/kirtisharma17/kirtisharma17/blob/main/software.png)
+![logo](https://github.com/kirtisharma17/kirtisharma17/blob/main/software.png)
 <h1 align="center">Hi 👋, I'm Kirti Sharma</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
-<img align= "right alt="coding" width= "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align= "right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtisharma17&label=Profile%20views&color=0e75b6&style=flat" alt="kirtisharma17" /> </p>
 
