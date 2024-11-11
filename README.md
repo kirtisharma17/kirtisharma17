@@ -1,4 +1,4 @@
-![logo](https://github.com/kirtisharma17/kirtisharma17/blob/main/software.png)
+![logo](https://github.com/kirtisharma17/kirtisharma17/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Kirti Sharma</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
